@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KotlecikzZiemniaczkami
+- 👀 I’m interested in history, music and Python. I just love it.
+- 🌱 I’m currently learning building websites, projecting databases, cybersec and whatever possible
+- I hope You enjoy content of my profile. Have fun :)
